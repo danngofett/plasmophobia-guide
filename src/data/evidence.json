@@ -1,0 +1,34 @@
+{
+  "data": [
+    {
+      "name": "EMF level 5",
+      "id": "emf",
+      "description": ""
+    },
+    {
+      "name": "Fingerprints",
+      "id": "prints",
+      "description": ""
+    },
+    {
+      "name": "Freezing temperatures",
+      "id": "temps",
+      "description": ""
+    },
+    {
+      "name": "Ghost orbs",
+      "id": "orbs",
+      "description": ""
+    },
+    {
+      "name": "Ghost writing",
+      "id": "writing",
+      "description": ""
+    },
+    {
+      "name": "Spirit box",
+      "id": "box",
+      "description": ""
+    }
+  ]
+}
